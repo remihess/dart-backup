@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1779645715988,
+  "lastUpdated": 1779646762592,
   "history": [
     {
       "config": {
@@ -635,6 +635,77 @@
           "id": 1778788118162,
           "name": "Remi",
           "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle><circle cx=\"12\" cy=\"12\" r=\"6\"></circle><circle cx=\"12\" cy=\"12\" r=\"2\"></circle></svg>",
+          "totalDarts": 3,
+          "isOut": false,
+          "totalScore": 120,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 3,
+          "legScore": 120,
+          "stats80": 0,
+          "stats100": 1,
+          "stats140": 0,
+          "highestFinish": 0,
+          "heatmap": {
+            "20": 1,
+            "D20": 1,
+            "T20": 1
+          },
+          "checkoutAttempts": 0,
+          "checkoutHits": 0,
+          "score": 381
+        },
+        {
+          "id": 1778788124999,
+          "name": "Papa",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polygon points=\"2 20 22 20 20 5 15 10 12 2 9 10 4 5 2 20\"></polygon></svg>",
+          "totalDarts": 0,
+          "isOut": false,
+          "totalScore": 0,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 0,
+          "legScore": 0,
+          "stats80": 0,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 0,
+          "heatmap": {},
+          "checkoutAttempts": 0,
+          "checkoutHits": 0,
+          "score": 501
+        }
+      ],
+      "currentSet": 1,
+      "currentLeg": 1,
+      "activePlayerIdx": 1,
+      "starterIdx": 0,
+      "turnDarts": [],
+      "legHistory": [],
+      "status": "active",
+      "lastDarts": [
+        "D20",
+        "T20",
+        "20"
+      ],
+      "scoreAtTurnStart": 501,
+      "starterSelectionType": "winner-only"
+    },
+    {
+      "config": {
+        "mode": "x01",
+        "timestamp": 1779646762595,
+        "startScore": 501,
+        "legsPerSet": 3,
+        "setsToWin": 1,
+        "inMode": "straight",
+        "outMode": "double"
+      },
+      "players": [
+        {
+          "id": 1778788118162,
+          "name": "Remi",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle><circle cx=\"12\" cy=\"12\" r=\"6\"></circle><circle cx=\"12\" cy=\"12\" r=\"2\"></circle></svg>",
           "totalDarts": 0,
           "isOut": false,
           "totalScore": 0,
@@ -680,9 +751,9 @@
       "legHistory": [],
       "status": "active",
       "lastDarts": [
-        "20",
-        "1",
-        "5"
+        "5",
+        "17",
+        "9"
       ],
       "scoreAtTurnStart": 501,
       "starterSelectionType": "winner-only"
