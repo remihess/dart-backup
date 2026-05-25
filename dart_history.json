@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1779648657218,
+  "lastUpdated": 1779728694368,
   "history": [
     {
       "config": {
@@ -1027,7 +1027,7 @@
     {
       "id": 1778788138357,
       "name": "Maxim",
-      "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polygon points=\"13 2 3 14 12 14 11 22 21 10 12 10 13 2\"></polygon></svg>"
+      "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z\"></path><circle cx=\"12\" cy=\"12\" r=\"3\"></circle></svg>"
     },
     {
       "id": 1778961840832,
