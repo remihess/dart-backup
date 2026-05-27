@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1779736479043,
+  "lastUpdated": 1779886642824,
   "history": [
     {
       "config": {
@@ -1264,6 +1264,44 @@
       ],
       "scoreAtTurnStart": 2,
       "starterSelectionType": "winner-only"
+    },
+    {
+      "config": {
+        "mode": "atc",
+        "timestamp": 1779886642827,
+        "atcType": "single"
+      },
+      "players": [
+        {
+          "id": 1778788118162,
+          "name": "Remi",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle><circle cx=\"12\" cy=\"12\" r=\"6\"></circle><circle cx=\"12\" cy=\"12\" r=\"2\"></circle></svg>",
+          "totalDarts": 0,
+          "isOut": false,
+          "totalScore": 0,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 0,
+          "legScore": 0,
+          "stats80": 0,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 0,
+          "heatmap": {},
+          "checkoutAttempts": 0,
+          "checkoutHits": 0,
+          "atcTarget": 1,
+          "atcHits": 0
+        }
+      ],
+      "currentSet": 1,
+      "currentLeg": 1,
+      "activePlayerIdx": 0,
+      "starterIdx": 0,
+      "turnDarts": [],
+      "legHistory": [],
+      "status": "active",
+      "lastDarts": []
     }
   ],
   "players": [
