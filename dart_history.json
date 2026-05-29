@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1779988704713,
+  "lastUpdated": 1780000510836,
   "history": [
     {
       "config": {
@@ -1642,6 +1642,1003 @@
       ],
       "scoreAtTurnStart": 3,
       "starterSelectionType": "winner-only"
+    },
+    {
+      "config": {
+        "mode": "elimination",
+        "timestamp": 1779992041458,
+        "targetScore": 301,
+        "outMode": "double",
+        "legsPerSet": 1,
+        "setsToWin": 1
+      },
+      "players": [
+        {
+          "id": 1779992018344,
+          "name": "Mani",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z\"></path><line x1=\"16\" y1=\"8\" x2=\"2\" y2=\"22\"></line></svg>",
+          "totalDarts": 24,
+          "isOut": false,
+          "totalScore": 270,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 24,
+          "legScore": 0,
+          "stats80": 0,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 0,
+          "heatmap": {
+            "0": 5,
+            "1": 1,
+            "3": 2,
+            "5": 3,
+            "6": 1,
+            "12": 2,
+            "14": 1,
+            "15": 1,
+            "16": 1,
+            "18": 2,
+            "20": 4,
+            "T19": 1,
+            "MD17": 2
+          },
+          "checkoutAttempts": 2,
+          "checkoutHits": 0,
+          "score": 270
+        },
+        {
+          "id": 1779992031018,
+          "name": "Kevin",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"5\" r=\"3\"></circle><line x1=\"12\" y1=\"22\" x2=\"12\" y2=\"8\"></line><path d=\"M5 12H2a10 10 0 0 0 20 0h-3\"></path></svg>",
+          "totalDarts": 24,
+          "isOut": false,
+          "totalScore": 255,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 24,
+          "legScore": 0,
+          "stats80": 0,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 0,
+          "heatmap": {
+            "0": 5,
+            "1": 2,
+            "4": 2,
+            "5": 3,
+            "9": 1,
+            "10": 1,
+            "14": 1,
+            "15": 1,
+            "20": 5,
+            "D20": 2,
+            "D1": 1
+          },
+          "checkoutAttempts": 0,
+          "checkoutHits": 0,
+          "score": 255
+        },
+        {
+          "id": 1778788118162,
+          "name": "Remi",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle><circle cx=\"12\" cy=\"12\" r=\"6\"></circle><circle cx=\"12\" cy=\"12\" r=\"2\"></circle></svg>",
+          "totalDarts": 24,
+          "isOut": false,
+          "totalScore": 301,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 24,
+          "legScore": 0,
+          "stats80": 0,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 40,
+          "heatmap": {
+            "0": 3,
+            "1": 4,
+            "3": 1,
+            "5": 3,
+            "7": 1,
+            "8": 2,
+            "16": 1,
+            "20": 7,
+            "T20": 1,
+            "MD20": 2,
+            "D20": 1
+          },
+          "checkoutAttempts": 3,
+          "checkoutHits": 1,
+          "score": 301
+        }
+      ],
+      "currentSet": 1,
+      "currentLeg": 1,
+      "activePlayerIdx": 2,
+      "starterIdx": 0,
+      "turnDarts": [
+        {
+          "base": 0,
+          "mult": 1,
+          "score": 0,
+          "display": "0"
+        },
+        {
+          "base": 0,
+          "mult": 1,
+          "score": 0,
+          "display": "0"
+        },
+        {
+          "base": 20,
+          "mult": 2,
+          "score": 40,
+          "display": "D20"
+        }
+      ],
+      "legHistory": [],
+      "status": "finished",
+      "lastDarts": [
+        "20",
+        "20",
+        "D20"
+      ],
+      "scoreAtTurnStart": 261,
+      "starterSelectionType": "order"
+    },
+    {
+      "config": {
+        "mode": "elimination",
+        "timestamp": 1779994357648,
+        "targetScore": 301,
+        "outMode": "double",
+        "legsPerSet": 1,
+        "setsToWin": 1
+      },
+      "players": [
+        {
+          "id": 1779992018344,
+          "name": "Mani",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z\"></path><line x1=\"16\" y1=\"8\" x2=\"2\" y2=\"22\"></line></svg>",
+          "totalDarts": 3,
+          "isOut": false,
+          "totalScore": 41,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 3,
+          "legScore": 0,
+          "stats80": 0,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 0,
+          "heatmap": {
+            "5": 1,
+            "12": 1,
+            "D12": 1
+          },
+          "checkoutAttempts": 0,
+          "checkoutHits": 0,
+          "score": 41
+        },
+        {
+          "id": 1779992031018,
+          "name": "Kevin",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"5\" r=\"3\"></circle><line x1=\"12\" y1=\"22\" x2=\"12\" y2=\"8\"></line><path d=\"M5 12H2a10 10 0 0 0 20 0h-3\"></path></svg>",
+          "totalDarts": 0,
+          "isOut": false,
+          "totalScore": 0,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 0,
+          "legScore": 0,
+          "stats80": 0,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 0,
+          "heatmap": {},
+          "checkoutAttempts": 0,
+          "checkoutHits": 0,
+          "score": 0
+        },
+        {
+          "id": 1778788118162,
+          "name": "Remi",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle><circle cx=\"12\" cy=\"12\" r=\"6\"></circle><circle cx=\"12\" cy=\"12\" r=\"2\"></circle></svg>",
+          "totalDarts": 0,
+          "isOut": false,
+          "totalScore": 0,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 0,
+          "legScore": 0,
+          "stats80": 0,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 0,
+          "heatmap": {},
+          "checkoutAttempts": 0,
+          "checkoutHits": 0,
+          "score": 0,
+          "elimKills": 1
+        }
+      ],
+      "currentSet": 1,
+      "currentLeg": 1,
+      "activePlayerIdx": 1,
+      "starterIdx": 0,
+      "turnDarts": [],
+      "legHistory": [],
+      "status": "active",
+      "lastDarts": [
+        "D12",
+        "12",
+        "5"
+      ],
+      "scoreAtTurnStart": 0,
+      "starterSelectionType": "order"
+    },
+    {
+      "config": {
+        "mode": "elimination",
+        "timestamp": 1779994357648,
+        "targetScore": 301,
+        "outMode": "double",
+        "legsPerSet": 1,
+        "setsToWin": 1
+      },
+      "players": [
+        {
+          "id": 1779992018344,
+          "name": "Mani",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z\"></path><line x1=\"16\" y1=\"8\" x2=\"2\" y2=\"22\"></line></svg>",
+          "totalDarts": 3,
+          "isOut": false,
+          "totalScore": 41,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 3,
+          "legScore": 0,
+          "stats80": 0,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 0,
+          "heatmap": {
+            "5": 1,
+            "12": 1,
+            "D12": 1
+          },
+          "checkoutAttempts": 0,
+          "checkoutHits": 0,
+          "score": 41
+        },
+        {
+          "id": 1779992031018,
+          "name": "Kevin",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"5\" r=\"3\"></circle><line x1=\"12\" y1=\"22\" x2=\"12\" y2=\"8\"></line><path d=\"M5 12H2a10 10 0 0 0 20 0h-3\"></path></svg>",
+          "totalDarts": 0,
+          "isOut": false,
+          "totalScore": 0,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 0,
+          "legScore": 0,
+          "stats80": 0,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 0,
+          "heatmap": {},
+          "checkoutAttempts": 0,
+          "checkoutHits": 0,
+          "score": 0
+        },
+        {
+          "id": 1778788118162,
+          "name": "Remi",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle><circle cx=\"12\" cy=\"12\" r=\"6\"></circle><circle cx=\"12\" cy=\"12\" r=\"2\"></circle></svg>",
+          "totalDarts": 0,
+          "isOut": false,
+          "totalScore": 0,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 0,
+          "legScore": 0,
+          "stats80": 0,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 0,
+          "heatmap": {},
+          "checkoutAttempts": 0,
+          "checkoutHits": 0,
+          "score": 0,
+          "elimKills": 1
+        }
+      ],
+      "currentSet": 1,
+      "currentLeg": 1,
+      "activePlayerIdx": 1,
+      "starterIdx": 0,
+      "turnDarts": [],
+      "legHistory": [],
+      "status": "active",
+      "lastDarts": [
+        "D12",
+        "12",
+        "5"
+      ],
+      "scoreAtTurnStart": 0,
+      "starterSelectionType": "order"
+    },
+    {
+      "config": {
+        "mode": "elimination",
+        "timestamp": 1779995724319,
+        "targetScore": 301,
+        "outMode": "double",
+        "legsPerSet": 1,
+        "setsToWin": 1
+      },
+      "players": [
+        {
+          "id": 1779992018344,
+          "name": "Mani",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z\"></path><line x1=\"16\" y1=\"8\" x2=\"2\" y2=\"22\"></line></svg>",
+          "totalDarts": 3,
+          "isOut": false,
+          "totalScore": 29,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 3,
+          "legScore": 0,
+          "stats80": 0,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 0,
+          "heatmap": {
+            "5": 1,
+            "9": 1,
+            "T5": 1
+          },
+          "checkoutAttempts": 0,
+          "checkoutHits": 0,
+          "score": 29,
+          "elimKills": 1
+        },
+        {
+          "id": 1778788118162,
+          "name": "Remi",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle><circle cx=\"12\" cy=\"12\" r=\"6\"></circle><circle cx=\"12\" cy=\"12\" r=\"2\"></circle></svg>",
+          "totalDarts": 3,
+          "isOut": false,
+          "totalScore": 14,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 3,
+          "legScore": 0,
+          "stats80": 0,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 0,
+          "heatmap": {
+            "4": 1,
+            "5": 2
+          },
+          "checkoutAttempts": 0,
+          "checkoutHits": 0,
+          "score": 14,
+          "elimKills": 1
+        },
+        {
+          "id": 1779992031018,
+          "name": "Kevin",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"5\" r=\"3\"></circle><line x1=\"12\" y1=\"22\" x2=\"12\" y2=\"8\"></line><path d=\"M5 12H2a10 10 0 0 0 20 0h-3\"></path></svg>",
+          "totalDarts": 0,
+          "isOut": false,
+          "totalScore": 0,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 0,
+          "legScore": 0,
+          "stats80": 0,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 0,
+          "heatmap": {},
+          "checkoutAttempts": 0,
+          "checkoutHits": 0,
+          "score": 0,
+          "elimKills": 1
+        }
+      ],
+      "currentSet": 1,
+      "currentLeg": 1,
+      "activePlayerIdx": 2,
+      "starterIdx": 0,
+      "turnDarts": [],
+      "legHistory": [],
+      "status": "active",
+      "lastDarts": [
+        "5",
+        "4",
+        "5"
+      ],
+      "scoreAtTurnStart": 0,
+      "starterSelectionType": "order"
+    },
+    {
+      "config": {
+        "mode": "elimination",
+        "timestamp": 1779996265770,
+        "targetScore": 301,
+        "outMode": "double",
+        "legsPerSet": 1,
+        "setsToWin": 1
+      },
+      "players": [
+        {
+          "id": 1779992018344,
+          "name": "Mani",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z\"></path><line x1=\"16\" y1=\"8\" x2=\"2\" y2=\"22\"></line></svg>",
+          "totalDarts": 27,
+          "isOut": false,
+          "totalScore": 392,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 27,
+          "legScore": 0,
+          "stats80": 0,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 0,
+          "heatmap": {
+            "0": 3,
+            "3": 1,
+            "5": 2,
+            "7": 1,
+            "9": 2,
+            "10": 2,
+            "12": 2,
+            "13": 1,
+            "18": 1,
+            "19": 1,
+            "20": 6,
+            "25": 2,
+            "T1": 1,
+            "T9": 1,
+            "T20": 1
+          },
+          "checkoutAttempts": 0,
+          "checkoutHits": 0,
+          "score": 165,
+          "elimKills": 2
+        },
+        {
+          "id": 1779992031018,
+          "name": "Kevin",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"5\" r=\"3\"></circle><line x1=\"12\" y1=\"22\" x2=\"12\" y2=\"8\"></line><path d=\"M5 12H2a10 10 0 0 0 20 0h-3\"></path></svg>",
+          "totalDarts": 25,
+          "isOut": false,
+          "totalScore": 321,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 25,
+          "legScore": 0,
+          "stats80": 0,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 0,
+          "heatmap": {
+            "0": 3,
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 2,
+            "7": 1,
+            "9": 2,
+            "11": 1,
+            "12": 1,
+            "16": 1,
+            "17": 1,
+            "19": 2,
+            "20": 3,
+            "25": 1,
+            "T5": 1,
+            "D5": 1,
+            "T13": 2,
+            "MD3": 2,
+            "IM3": 1
+          },
+          "checkoutAttempts": 3,
+          "checkoutHits": 0,
+          "score": 295,
+          "elimKills": 2
+        },
+        {
+          "id": 1778788118162,
+          "name": "Remi",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle><circle cx=\"12\" cy=\"12\" r=\"6\"></circle><circle cx=\"12\" cy=\"12\" r=\"2\"></circle></svg>",
+          "totalDarts": 27,
+          "isOut": false,
+          "totalScore": 301,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 27,
+          "legScore": 0,
+          "stats80": 0,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 48,
+          "heatmap": {
+            "0": 4,
+            "1": 1,
+            "5": 7,
+            "9": 1,
+            "10": 1,
+            "12": 1,
+            "16": 1,
+            "19": 1,
+            "20": 7,
+            "T2": 1,
+            "T7": 1,
+            "MD16": 1,
+            "D16": 1
+          },
+          "checkoutAttempts": 2,
+          "checkoutHits": 1,
+          "score": 301,
+          "elimKills": 1
+        }
+      ],
+      "currentSet": 1,
+      "currentLeg": 1,
+      "activePlayerIdx": 2,
+      "starterIdx": 0,
+      "turnDarts": [
+        {
+          "base": 16,
+          "mult": 1,
+          "score": 16,
+          "display": "16"
+        },
+        {
+          "base": 0,
+          "mult": 1,
+          "score": 0,
+          "display": "0"
+        },
+        {
+          "base": 16,
+          "mult": 2,
+          "score": 32,
+          "display": "D16"
+        }
+      ],
+      "legHistory": [],
+      "status": "finished",
+      "lastDarts": [
+        "3",
+        "4"
+      ],
+      "scoreAtTurnStart": 253,
+      "starterSelectionType": "order"
+    },
+    {
+      "config": {
+        "mode": "elimination",
+        "timestamp": 1779996265770,
+        "targetScore": 301,
+        "outMode": "double",
+        "legsPerSet": 1,
+        "setsToWin": 1
+      },
+      "players": [
+        {
+          "id": 1779992018344,
+          "name": "Mani",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z\"></path><line x1=\"16\" y1=\"8\" x2=\"2\" y2=\"22\"></line></svg>",
+          "totalDarts": 27,
+          "isOut": false,
+          "totalScore": 392,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 27,
+          "legScore": 0,
+          "stats80": 0,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 0,
+          "heatmap": {
+            "0": 3,
+            "3": 1,
+            "5": 2,
+            "7": 1,
+            "9": 2,
+            "10": 2,
+            "12": 2,
+            "13": 1,
+            "18": 1,
+            "19": 1,
+            "20": 6,
+            "25": 2,
+            "T1": 1,
+            "T9": 1,
+            "T20": 1
+          },
+          "checkoutAttempts": 0,
+          "checkoutHits": 0,
+          "score": 165,
+          "elimKills": 2
+        },
+        {
+          "id": 1779992031018,
+          "name": "Kevin",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"5\" r=\"3\"></circle><line x1=\"12\" y1=\"22\" x2=\"12\" y2=\"8\"></line><path d=\"M5 12H2a10 10 0 0 0 20 0h-3\"></path></svg>",
+          "totalDarts": 25,
+          "isOut": false,
+          "totalScore": 321,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 25,
+          "legScore": 0,
+          "stats80": 0,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 0,
+          "heatmap": {
+            "0": 3,
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 2,
+            "7": 1,
+            "9": 2,
+            "11": 1,
+            "12": 1,
+            "16": 1,
+            "17": 1,
+            "19": 2,
+            "20": 3,
+            "25": 1,
+            "T5": 1,
+            "D5": 1,
+            "T13": 2,
+            "MD3": 2,
+            "IM3": 1
+          },
+          "checkoutAttempts": 3,
+          "checkoutHits": 0,
+          "score": 295,
+          "elimKills": 2
+        },
+        {
+          "id": 1778788118162,
+          "name": "Remi",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle><circle cx=\"12\" cy=\"12\" r=\"6\"></circle><circle cx=\"12\" cy=\"12\" r=\"2\"></circle></svg>",
+          "totalDarts": 27,
+          "isOut": false,
+          "totalScore": 301,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 27,
+          "legScore": 0,
+          "stats80": 0,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 48,
+          "heatmap": {
+            "0": 4,
+            "1": 1,
+            "5": 7,
+            "9": 1,
+            "10": 1,
+            "12": 1,
+            "16": 1,
+            "19": 1,
+            "20": 7,
+            "T2": 1,
+            "T7": 1,
+            "MD16": 1,
+            "D16": 1
+          },
+          "checkoutAttempts": 2,
+          "checkoutHits": 1,
+          "score": 301,
+          "elimKills": 1
+        }
+      ],
+      "currentSet": 1,
+      "currentLeg": 1,
+      "activePlayerIdx": 2,
+      "starterIdx": 0,
+      "turnDarts": [
+        {
+          "base": 16,
+          "mult": 1,
+          "score": 16,
+          "display": "16"
+        },
+        {
+          "base": 0,
+          "mult": 1,
+          "score": 0,
+          "display": "0"
+        },
+        {
+          "base": 16,
+          "mult": 2,
+          "score": 32,
+          "display": "D16"
+        }
+      ],
+      "legHistory": [],
+      "status": "finished",
+      "lastDarts": [
+        "3",
+        "4"
+      ],
+      "scoreAtTurnStart": 253,
+      "starterSelectionType": "order"
+    },
+    {
+      "config": {
+        "mode": "x01",
+        "timestamp": 1779997157162,
+        "startScore": 501,
+        "legsPerSet": 3,
+        "setsToWin": 1,
+        "inMode": "straight",
+        "outMode": "double"
+      },
+      "players": [
+        {
+          "id": 1778788118162,
+          "name": "Remi",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle><circle cx=\"12\" cy=\"12\" r=\"6\"></circle><circle cx=\"12\" cy=\"12\" r=\"2\"></circle></svg>",
+          "totalDarts": 129,
+          "isOut": false,
+          "totalScore": 1972,
+          "legs": 2,
+          "sets": 0,
+          "legDarts": 0,
+          "legScore": 0,
+          "stats80": 4,
+          "stats100": 1,
+          "stats140": 1,
+          "highestFinish": 40,
+          "heatmap": {
+            "0": 14,
+            "1": 2,
+            "2": 3,
+            "3": 8,
+            "4": 2,
+            "5": 10,
+            "7": 9,
+            "8": 2,
+            "9": 1,
+            "12": 7,
+            "13": 2,
+            "14": 3,
+            "15": 1,
+            "16": 3,
+            "18": 1,
+            "19": 14,
+            "20": 27,
+            "25": 6,
+            "T20": 6,
+            "D20": 1,
+            "T5": 2,
+            "T16": 1,
+            "MD20": 1,
+            "MD16": 2,
+            "MD12": 2,
+            "IM12": 1,
+            "MD6": 3,
+            "T1": 1,
+            "IM20": 1,
+            "MD10": 3,
+            "T19": 1,
+            "T18": 1,
+            "D13": 1
+          },
+          "checkoutAttempts": 15,
+          "checkoutHits": 2,
+          "score": 501
+        },
+        {
+          "id": 1779992018344,
+          "name": "Mani",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z\"></path><line x1=\"16\" y1=\"8\" x2=\"2\" y2=\"22\"></line></svg>",
+          "totalDarts": 132,
+          "isOut": false,
+          "totalScore": 1500,
+          "legs": 1,
+          "sets": 0,
+          "legDarts": 0,
+          "legScore": 0,
+          "stats80": 0,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 55,
+          "heatmap": {
+            "0": 14,
+            "1": 12,
+            "2": 2,
+            "3": 3,
+            "4": 3,
+            "5": 13,
+            "6": 2,
+            "7": 1,
+            "8": 5,
+            "9": 9,
+            "10": 4,
+            "11": 3,
+            "12": 8,
+            "13": 1,
+            "14": 3,
+            "15": 3,
+            "16": 1,
+            "17": 1,
+            "18": 8,
+            "19": 2,
+            "20": 20,
+            "25": 3,
+            "T12": 2,
+            "T1": 2,
+            "T20": 1,
+            "T5": 1,
+            "D2": 1,
+            "T19": 1,
+            "T3": 1,
+            "D18": 1,
+            "D20": 1
+          },
+          "checkoutAttempts": 1,
+          "checkoutHits": 1,
+          "score": 501
+        },
+        {
+          "id": 1779992031018,
+          "name": "Kevin",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"5\" r=\"3\"></circle><line x1=\"12\" y1=\"22\" x2=\"12\" y2=\"8\"></line><path d=\"M5 12H2a10 10 0 0 0 20 0h-3\"></path></svg>",
+          "totalDarts": 130,
+          "isOut": false,
+          "totalScore": 1475,
+          "legs": 1,
+          "sets": 0,
+          "legDarts": 0,
+          "legScore": 0,
+          "stats80": 2,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 8,
+          "heatmap": {
+            "0": 17,
+            "1": 17,
+            "3": 3,
+            "4": 4,
+            "5": 14,
+            "7": 8,
+            "8": 1,
+            "9": 3,
+            "11": 2,
+            "12": 4,
+            "15": 2,
+            "16": 1,
+            "17": 3,
+            "18": 8,
+            "19": 4,
+            "20": 25,
+            "25": 1,
+            "T9": 1,
+            "T20": 1,
+            "T5": 1,
+            "T19": 1,
+            "D4": 1,
+            "T6": 1,
+            "D5": 1,
+            "T3": 1,
+            "T17": 2,
+            "T4": 1,
+            "D20": 1,
+            "D1": 1
+          },
+          "checkoutAttempts": 1,
+          "checkoutHits": 1,
+          "score": 501
+        }
+      ],
+      "currentSet": 1,
+      "currentLeg": 5,
+      "activePlayerIdx": 1,
+      "starterIdx": 1,
+      "turnDarts": [],
+      "legHistory": [
+        {
+          "legStr": "1-1",
+          "starterId": 1778788118162,
+          "winnerId": 1778788118162,
+          "winnerCheckout": 40,
+          "stats": {
+            "1778788118162": {
+              "darts": 19,
+              "avg": "79.1"
+            },
+            "1779992018344": {
+              "darts": 18,
+              "avg": "29.8"
+            },
+            "1779992031018": {
+              "darts": 18,
+              "avg": "21.7"
+            }
+          }
+        },
+        {
+          "legStr": "1-2",
+          "starterId": 1779992018344,
+          "winnerId": 1779992031018,
+          "winnerCheckout": 8,
+          "stats": {
+            "1778788118162": {
+              "darts": 37,
+              "avg": "39.6"
+            },
+            "1779992018344": {
+              "darts": 42,
+              "avg": "34.6"
+            },
+            "1779992031018": {
+              "darts": 40,
+              "avg": "37.6"
+            }
+          }
+        },
+        {
+          "legStr": "1-3",
+          "starterId": 1779992031018,
+          "winnerId": 1779992018344,
+          "winnerCheckout": 55,
+          "stats": {
+            "1778788118162": {
+              "darts": 42,
+              "avg": "34.4"
+            },
+            "1779992018344": {
+              "darts": 42,
+              "avg": "35.8"
+            },
+            "1779992031018": {
+              "darts": 42,
+              "avg": "35.0"
+            }
+          }
+        },
+        {
+          "legStr": "1-4",
+          "starterId": 1778788118162,
+          "winnerId": 1778788118162,
+          "winnerCheckout": 26,
+          "stats": {
+            "1778788118162": {
+              "darts": 31,
+              "avg": "48.5"
+            },
+            "1779992018344": {
+              "darts": 30,
+              "avg": "33.5"
+            },
+            "1779992031018": {
+              "darts": 30,
+              "avg": "35.4"
+            }
+          }
+        }
+      ],
+      "status": "finished",
+      "lastDarts": [
+        "D13"
+      ],
+      "scoreAtTurnStart": 501,
+      "starterSelectionType": "order"
     }
   ],
   "players": [
@@ -1664,6 +2661,16 @@
       "id": 1778961840832,
       "name": "Mama",
       "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z\"></path></svg>"
+    },
+    {
+      "id": 1779992018344,
+      "name": "Mani",
+      "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z\"></path><line x1=\"16\" y1=\"8\" x2=\"2\" y2=\"22\"></line></svg>"
+    },
+    {
+      "id": 1779992031018,
+      "name": "Kevin",
+      "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"5\" r=\"3\"></circle><line x1=\"12\" y1=\"22\" x2=\"12\" y2=\"8\"></line><path d=\"M5 12H2a10 10 0 0 0 20 0h-3\"></path></svg>"
     }
   ]
 }
