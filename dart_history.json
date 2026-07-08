@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1783544282404,
+  "lastUpdated": 1783546174692,
   "history": [
     {
       "config": {
@@ -3645,6 +3645,202 @@
       ],
       "status": "finished",
       "scoreAtTurnStart": 39,
+      "starterSelectionType": "winner-only"
+    },
+    {
+      "config": {
+        "mode": "x01",
+        "timestamp": 1783544454304,
+        "startScore": 501,
+        "legsPerSet": 3,
+        "setsToWin": 1,
+        "inMode": "straight",
+        "outMode": "double"
+      },
+      "players": [
+        {
+          "id": 1778788118162,
+          "name": "Remi",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle><circle cx=\"12\" cy=\"12\" r=\"6\"></circle><circle cx=\"12\" cy=\"12\" r=\"2\"></circle></svg>",
+          "totalDarts": 109,
+          "isOut": false,
+          "totalScore": 1467,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 0,
+          "legScore": 0,
+          "stats80": 2,
+          "stats100": 2,
+          "stats140": 0,
+          "highestFinish": 0,
+          "heatmap": {
+            "0": 6,
+            "1": 7,
+            "3": 4,
+            "4": 4,
+            "5": 17,
+            "7": 4,
+            "8": 2,
+            "9": 2,
+            "10": 1,
+            "12": 2,
+            "15": 1,
+            "17": 1,
+            "18": 2,
+            "19": 19,
+            "20": 26,
+            "T3": 2,
+            "T20": 3,
+            "D14": 1,
+            "MD20": 2,
+            "MD8": 1,
+            "IM8": 1,
+            "IM4": 1,
+            "MD2": 2,
+            "MD4": 2,
+            "T5": 2,
+            "T10": 1,
+            "IM20": 1,
+            "T19": 1,
+            "MD18": 1,
+            "IM18": 2,
+            "D12": 1,
+            "MD9": 1,
+            "IM9": 1
+          },
+          "checkoutAttempts": 15,
+          "checkoutHits": 0,
+          "lastDarts": [
+            "18",
+            "9",
+            "1"
+          ],
+          "score": 8
+        },
+        {
+          "id": 1778788124999,
+          "name": "Papa",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polygon points=\"2 20 22 20 20 5 15 10 12 2 9 10 4 5 2 20\"></polygon></svg>",
+          "totalDarts": 108,
+          "isOut": false,
+          "totalScore": 1503,
+          "legs": 0,
+          "sets": 1,
+          "legDarts": 0,
+          "legScore": 0,
+          "stats80": 2,
+          "stats100": 1,
+          "stats140": 0,
+          "highestFinish": 30,
+          "heatmap": {
+            "0": 11,
+            "2": 1,
+            "3": 12,
+            "5": 3,
+            "6": 1,
+            "7": 18,
+            "11": 1,
+            "14": 1,
+            "15": 1,
+            "16": 4,
+            "17": 5,
+            "18": 2,
+            "19": 33,
+            "20": 6,
+            "T19": 4,
+            "MD20": 1,
+            "MD8": 1,
+            "D8": 2,
+            "T7": 1,
+            "IM16": 1,
+            "T17": 1,
+            "MD25": 1,
+            "MD15": 2,
+            "D15": 1
+          },
+          "checkoutAttempts": 9,
+          "checkoutHits": 3,
+          "lastDarts": [
+            "0",
+            "18",
+            "20"
+          ],
+          "score": 0
+        }
+      ],
+      "currentSet": 2,
+      "currentLeg": 3,
+      "activePlayerIdx": 1,
+      "starterIdx": 0,
+      "turnDarts": [
+        {
+          "base": 0,
+          "mult": 1,
+          "score": 0,
+          "display": "0"
+        },
+        {
+          "base": 0,
+          "mult": 1,
+          "score": 0,
+          "display": "0"
+        },
+        {
+          "base": 15,
+          "mult": 2,
+          "score": 30,
+          "display": "D15"
+        }
+      ],
+      "legHistory": [
+        {
+          "legStr": "1-1",
+          "starterId": 1778788118162,
+          "winnerId": 1778788124999,
+          "stats": {
+            "1778788118162": {
+              "darts": 44,
+              "avg": "33.6"
+            },
+            "1778788124999": {
+              "darts": 41,
+              "avg": "36.7"
+            }
+          }
+        },
+        {
+          "legStr": "1-2",
+          "starterId": 1778788124999,
+          "winnerId": 1778788124999,
+          "stats": {
+            "1778788118162": {
+              "darts": 30,
+              "avg": "48.1"
+            },
+            "1778788124999": {
+              "darts": 31,
+              "avg": "48.5"
+            }
+          }
+        },
+        {
+          "legStr": "1-3",
+          "starterId": 1778788118162,
+          "winnerId": 1778788124999,
+          "stats": {
+            "1778788118162": {
+              "darts": 35,
+              "avg": "42.3"
+            },
+            "1778788124999": {
+              "darts": 36,
+              "avg": "41.8"
+            }
+          }
+        }
+      ],
+      "status": "finished",
+      "scoreAtTurnStart": 30,
       "starterSelectionType": "winner-only"
     }
   ],
