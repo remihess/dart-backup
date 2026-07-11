@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1783775729849,
+  "lastUpdated": 1783800506738,
   "history": [
     {
       "config": {
@@ -3858,6 +3858,147 @@
           "id": 1778788124999,
           "name": "Papa",
           "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polygon points=\"2 20 22 20 20 5 15 10 12 2 9 10 4 5 2 20\"></polygon></svg>",
+          "totalDarts": 69,
+          "isOut": false,
+          "totalScore": 911,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 21,
+          "legScore": 280,
+          "stats80": 0,
+          "stats100": 1,
+          "stats140": 0,
+          "highestFinish": 0,
+          "heatmap": {
+            "0": 3,
+            "1": 7,
+            "3": 5,
+            "4": 1,
+            "5": 8,
+            "7": 6,
+            "11": 2,
+            "12": 1,
+            "17": 2,
+            "18": 3,
+            "19": 16,
+            "20": 7,
+            "T1": 1,
+            "D20": 1,
+            "D19": 3,
+            "T19": 1,
+            "T3": 1,
+            "D7": 1
+          },
+          "checkoutAttempts": 0,
+          "checkoutHits": 0,
+          "score": 221
+        },
+        {
+          "id": 1778788118162,
+          "name": "Remi",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle><circle cx=\"12\" cy=\"12\" r=\"6\"></circle><circle cx=\"12\" cy=\"12\" r=\"2\"></circle></svg>",
+          "totalDarts": 72,
+          "isOut": false,
+          "totalScore": 1450,
+          "legs": 2,
+          "sets": 0,
+          "legDarts": 21,
+          "legScore": 448,
+          "stats80": 5,
+          "stats100": 4,
+          "stats140": 0,
+          "highestFinish": 52,
+          "heatmap": {
+            "0": 2,
+            "1": 3,
+            "3": 3,
+            "5": 8,
+            "7": 2,
+            "11": 1,
+            "12": 4,
+            "14": 1,
+            "16": 1,
+            "17": 1,
+            "19": 6,
+            "20": 24,
+            "T20": 7,
+            "T1": 1,
+            "T5": 2,
+            "IM20": 2,
+            "D10": 2,
+            "D20": 2,
+            "MD10": 2,
+            "T19": 1,
+            "T18": 1
+          },
+          "checkoutAttempts": 6,
+          "checkoutHits": 2,
+          "score": 53
+        }
+      ],
+      "currentSet": 1,
+      "currentLeg": 3,
+      "activePlayerIdx": 0,
+      "starterIdx": 0,
+      "turnDarts": [],
+      "legHistory": [
+        {
+          "legStr": "1-1",
+          "starterId": 1778788124999,
+          "winnerId": 1778788118162,
+          "winnerCheckout": 52,
+          "stats": {
+            "1778788124999": {
+              "darts": 24,
+              "avg": "31.5"
+            },
+            "1778788118162": {
+              "darts": 24,
+              "avg": "62.6"
+            }
+          }
+        },
+        {
+          "legStr": "1-2",
+          "starterId": 1778788118162,
+          "winnerId": 1778788118162,
+          "winnerCheckout": 20,
+          "stats": {
+            "1778788124999": {
+              "darts": 24,
+              "avg": "47.4"
+            },
+            "1778788118162": {
+              "darts": 27,
+              "avg": "55.7"
+            }
+          }
+        }
+      ],
+      "status": "active",
+      "lastDarts": [
+        "12",
+        "20",
+        "T18"
+      ],
+      "scoreAtTurnStart": 221,
+      "starterSelectionType": "winner-only"
+    },
+    {
+      "config": {
+        "mode": "x01",
+        "timestamp": 1783800506743,
+        "startScore": 501,
+        "legsPerSet": 3,
+        "setsToWin": 1,
+        "inMode": "straight",
+        "outMode": "double"
+      },
+      "players": [
+        {
+          "id": 1778788124999,
+          "name": "Papa",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polygon points=\"2 20 22 20 20 5 15 10 12 2 9 10 4 5 2 20\"></polygon></svg>",
           "totalDarts": 0,
           "isOut": false,
           "totalScore": 0,
@@ -3903,9 +4044,9 @@
       "legHistory": [],
       "status": "active",
       "lastDarts": [
-        "5",
-        "18",
-        "20"
+        "17",
+        "7",
+        "19"
       ],
       "scoreAtTurnStart": 501,
       "starterSelectionType": "winner-only"
