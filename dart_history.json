@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1783591108456,
+  "lastUpdated": 1783775729849,
   "history": [
     {
       "config": {
@@ -3841,6 +3841,73 @@
       ],
       "status": "finished",
       "scoreAtTurnStart": 30,
+      "starterSelectionType": "winner-only"
+    },
+    {
+      "config": {
+        "mode": "x01",
+        "timestamp": 1783775729852,
+        "startScore": 501,
+        "legsPerSet": 3,
+        "setsToWin": 1,
+        "inMode": "straight",
+        "outMode": "double"
+      },
+      "players": [
+        {
+          "id": 1778788124999,
+          "name": "Papa",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polygon points=\"2 20 22 20 20 5 15 10 12 2 9 10 4 5 2 20\"></polygon></svg>",
+          "totalDarts": 0,
+          "isOut": false,
+          "totalScore": 0,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 0,
+          "legScore": 0,
+          "stats80": 0,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 0,
+          "heatmap": {},
+          "checkoutAttempts": 0,
+          "checkoutHits": 0,
+          "score": 501
+        },
+        {
+          "id": 1778788118162,
+          "name": "Remi",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle><circle cx=\"12\" cy=\"12\" r=\"6\"></circle><circle cx=\"12\" cy=\"12\" r=\"2\"></circle></svg>",
+          "totalDarts": 0,
+          "isOut": false,
+          "totalScore": 0,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 0,
+          "legScore": 0,
+          "stats80": 0,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 0,
+          "heatmap": {},
+          "checkoutAttempts": 0,
+          "checkoutHits": 0,
+          "score": 501
+        }
+      ],
+      "currentSet": 1,
+      "currentLeg": 1,
+      "activePlayerIdx": 0,
+      "starterIdx": 0,
+      "turnDarts": [],
+      "legHistory": [],
+      "status": "active",
+      "lastDarts": [
+        "5",
+        "18",
+        "20"
+      ],
+      "scoreAtTurnStart": 501,
       "starterSelectionType": "winner-only"
     }
   ],
