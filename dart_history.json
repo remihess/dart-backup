@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1790418947751,
+  "lastUpdated": 1790419222684,
   "history": [
     {
       "config": {
@@ -5120,33 +5120,13 @@
     {
       "config": {
         "mode": "elimination",
-        "timestamp": 1790418947754,
+        "timestamp": 1790419222686,
         "targetScore": 301,
         "outMode": "double",
         "legsPerSet": 1,
         "setsToWin": 1
       },
       "players": [
-        {
-          "id": 1778788118162,
-          "name": "Remi",
-          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle><circle cx=\"12\" cy=\"12\" r=\"6\"></circle><circle cx=\"12\" cy=\"12\" r=\"2\"></circle></svg>",
-          "totalDarts": 0,
-          "isOut": false,
-          "totalScore": 0,
-          "legs": 0,
-          "sets": 0,
-          "legDarts": 0,
-          "legScore": 0,
-          "stats80": 0,
-          "stats100": 0,
-          "stats140": 0,
-          "highestFinish": 0,
-          "heatmap": {},
-          "checkoutAttempts": 0,
-          "checkoutHits": 0,
-          "score": 0
-        },
         {
           "id": 1778788124999,
           "name": "Papa",
@@ -5165,7 +5145,29 @@
           "heatmap": {},
           "checkoutAttempts": 0,
           "checkoutHits": 0,
-          "score": 0
+          "score": 0,
+          "elimKills": 1
+        },
+        {
+          "id": 1778788118162,
+          "name": "Remi",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle><circle cx=\"12\" cy=\"12\" r=\"6\"></circle><circle cx=\"12\" cy=\"12\" r=\"2\"></circle></svg>",
+          "totalDarts": 0,
+          "isOut": false,
+          "totalScore": 0,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 0,
+          "legScore": 0,
+          "stats80": 0,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 0,
+          "heatmap": {},
+          "checkoutAttempts": 0,
+          "checkoutHits": 0,
+          "score": 0,
+          "elimKills": 1
         }
       ],
       "currentSet": 1,
@@ -5176,9 +5178,77 @@
       "legHistory": [],
       "status": "active",
       "lastDarts": [
-        "12",
-        "D15",
-        "12"
+        "T1",
+        "5",
+        "9"
+      ],
+      "scoreAtTurnStart": 0,
+      "starterSelectionType": "winner-only"
+    },
+    {
+      "config": {
+        "mode": "elimination",
+        "timestamp": 1790419222686,
+        "targetScore": 301,
+        "outMode": "double",
+        "legsPerSet": 1,
+        "setsToWin": 1
+      },
+      "players": [
+        {
+          "id": 1778788124999,
+          "name": "Papa",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polygon points=\"2 20 22 20 20 5 15 10 12 2 9 10 4 5 2 20\"></polygon></svg>",
+          "totalDarts": 0,
+          "isOut": false,
+          "totalScore": 0,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 0,
+          "legScore": 0,
+          "stats80": 0,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 0,
+          "heatmap": {},
+          "checkoutAttempts": 0,
+          "checkoutHits": 0,
+          "score": 0,
+          "elimKills": 1
+        },
+        {
+          "id": 1778788118162,
+          "name": "Remi",
+          "avatar": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle><circle cx=\"12\" cy=\"12\" r=\"6\"></circle><circle cx=\"12\" cy=\"12\" r=\"2\"></circle></svg>",
+          "totalDarts": 0,
+          "isOut": false,
+          "totalScore": 0,
+          "legs": 0,
+          "sets": 0,
+          "legDarts": 0,
+          "legScore": 0,
+          "stats80": 0,
+          "stats100": 0,
+          "stats140": 0,
+          "highestFinish": 0,
+          "heatmap": {},
+          "checkoutAttempts": 0,
+          "checkoutHits": 0,
+          "score": 0,
+          "elimKills": 1
+        }
+      ],
+      "currentSet": 1,
+      "currentLeg": 1,
+      "activePlayerIdx": 0,
+      "starterIdx": 0,
+      "turnDarts": [],
+      "legHistory": [],
+      "status": "active",
+      "lastDarts": [
+        "T1",
+        "5",
+        "9"
       ],
       "scoreAtTurnStart": 0,
       "starterSelectionType": "winner-only"
